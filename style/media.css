@@ -1,0 +1,15 @@
+@media only screen and (max-width: 1200px) {
+    .container {
+        padding: 0 30px;
+    }
+
+    .top_mnu {
+        margin-right: 25px;
+    }
+
+    .btn {
+        width: 170px;
+    }
+
+
+}
